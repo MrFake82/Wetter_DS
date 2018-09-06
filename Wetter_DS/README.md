@@ -19,7 +19,5 @@ We accept contributions from our community: stability bugfixes, new hardware sup
 [Here](https://github.com/MrFake82/Wetter_DS/labels/help%20wanted) is a list of what you could help with.
 
 __________
-
-
 ### License
 This project is released under The MIT License (MIT)
